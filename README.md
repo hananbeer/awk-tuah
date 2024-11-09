@@ -27,3 +27,10 @@ then you will be able to:
 ```sh
 awk 2>ah spit on that thang
 ```
+
+
+# Contributing
+
+want to share your own unixsutra? got unique gnu-fu? invented new shell-shui?
+
+feel free to fork and commit tuah, then pull that thang
